@@ -888,3 +888,4 @@ Submit SHA256 hash of a file to Virus Total and retrieve the scan report if the 
 ```
 C:\PS> Check-VTFile -Path C:\Some\File.path
 ```
+

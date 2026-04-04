@@ -1,4 +1,4 @@
-# PowerShell-Suite
+# subu
 
 There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.
 
